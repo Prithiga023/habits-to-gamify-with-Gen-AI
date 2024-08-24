@@ -75,14 +75,6 @@ gamified-habit-tracker/
 
 ---
 
-## 🌟 Screenshots
-
-| Dashboard | AI Messages | Progress Gamification |
-|---|---|---|
-| ![Dashboard](https://via.placeholder.com/250x150.png?text=Dashboard) | ![AI Messages](https://via.placeholder.com/250x150.png?text=AI+Messages) | ![Gamification](https://via.placeholder.com/250x150.png?text=Gamification) |
-
----
-
 ## 📈 Roadmap
 
 - [x] AI-Generated Motivational Messages
