@@ -1,7 +1,7 @@
 
 # 🚀 Gamified Habit Tracker with AI-Powered Features
 
-![Hero Image](https://via.placeholder.com/800x400.png?text=Gamified+Habit+Tracker+with+AI) <!-- Replace with a suitable image -->
+![Hero Image](RIFF��) <!-- Replace with a suitable image -->
 
 Track, gamify, and stay motivated with your habits! This habit tracker now leverages **Generative AI** for smarter habit suggestions, personalized motivation, and interactive gamified experiences.
 
