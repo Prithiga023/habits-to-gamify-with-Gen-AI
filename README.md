@@ -105,7 +105,7 @@ gamified-habit-tracker/
 
 ## 📬 Contact
 
-For any questions or feedback, feel free to reach out via [email@example.com](mailto:prithisingar@gmail.com).
+For any questions or feedback, feel free to reach out via (mailto:prithisingar@gmail.com).
 
 ---
 
