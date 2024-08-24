@@ -1,7 +1,7 @@
 
 # 🚀 Gamified Habit Tracker with AI-Powered Features
 
-![Hero Image](https://raw.githubusercontent.com/Prithiga023/habits-to-gamify-with-Gen-AI/main/DALL%C2%B7E%202024-08-24%2009.39.07%20-%20A%20smartphone%20screen%20displaying%20an%20inspirational%20message%20like%20'You're%20doing%20great!'%20with%20a%20glowing%20light%20bulb%20icon%2C%20symbolizing%20motivation.%20The%20backgro.webp) <!-- Replace with a suitable image -->
+![Hero Image](https://raw.githubusercontent.com/Prithiga023/habits-to-gamify-with-Gen-AI/main/DALL%C2%B7E%202024-08-24%2009.39.29%20-%20A%20vibrant%20dashboard%20with%20charts%2C%20a%20progress%20bar%2C%20and%20gamified%20elements.%20It%20should%20have%20a%20modern%2C%20clean%20UI%20with%20motivational%20messages%20in%20speech%20bubbles.webp) <!-- Replace with a suitable image -->
 
 Track, gamify, and stay motivated with your habits! This habit tracker now leverages **Generative AI** for smarter habit suggestions, personalized motivation, and interactive gamified experiences.
 
