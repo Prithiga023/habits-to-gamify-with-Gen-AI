@@ -156,7 +156,7 @@ An Example Habit:
 
 ## Wireframes and Sitemap
 
-![wireframes-and-sitemap](/documentation/wireframes-and-sitemap.png)
+![wireframes-and-sitemap](wireframes-and-sitemap.png)
 
 ## User Stories or Use Cases
 
