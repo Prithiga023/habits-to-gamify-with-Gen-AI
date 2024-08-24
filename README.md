@@ -24,7 +24,7 @@ This project integrates AI into the core of your habit-building process:
 3. **Reminders & Notifications**: The system sends timely reminders to complete your tasks.
 4. **Gamification**: Reward yourself with points, badges, and AI-generated challenges that keep you engaged.
 
-![Flowchart](https://via.placeholder.com/600x300.png?text=Project+Flowchart) <!-- Add a flowchart of the habit tracker system -->
+<!-- Add a flowchart of the habit tracker system -->
 
 ---
 
