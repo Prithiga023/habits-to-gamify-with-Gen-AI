@@ -9,7 +9,7 @@ Track, gamify, and stay motivated with your habits! This habit tracker now lever
 
 | Feature | Description | Visual |
 |---|---|---|
-| 🎉 **AI-Driven Motivation** | Get personalized, inspiring messages based on your progress and goals. | ![Motivation](https://via.placeholder.com/150.png?text=Motivation) |
+| 🎉 **AI-Driven Motivation** | Get personalized, inspiring messages based on your progress and goals. | ![Motivation](https://raw.githubusercontent.com/Prithiga023/habits-to-gamify-with-Gen-AI/main/DALL%C2%B7E%202024-08-24%2009.39.26%20-%20A%20vibrant%20dashboard%20combining%20charts%2C%20a%20progress%20bar%2C%20and%20AI-generated%20motivational%20messages.%20The%20interface%20should%20display%20features%20like%20a%20habit%20track.webp) |
 | ⏰ **Smart Reminders & Habit Suggestions** | Receive AI-suggested habits and automated reminders to stay on track. | ![Reminders](https://via.placeholder.com/150.png?text=Reminders) |
 | 🏆 **Gamified Habit Progress** | Earn points, unlock achievements, and engage with fun challenges powered by AI. | ![Gamification](https://via.placeholder.com/150.png?text=Gamification) |
 
